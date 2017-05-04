@@ -6,7 +6,7 @@ Minimal and clean example implementations of data structures and algorithms in P
 
 ## List of Implementations
 
-- [array](array)
+- [array](src/main/scala/algorithms/array)
     - [circular_counter](src/main/scala/algorithms/array/CircularCounter.scala)
     - [flatten](src/main/scala/algorithms/array/Flatten.scala)
     - [garage](array/garage.py)

@@ -2,8 +2,8 @@
 
 .
 ├── array
-│   ├── circular_counter.py
-│   ├── flatten.py
+│   ├── CircularCounter.scala
+│   ├── Flatten.scala
 │   ├── garage.py
 │   ├── longest_non_repeat.py
 │   ├── merge_intervals.py
