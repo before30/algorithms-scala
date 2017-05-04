@@ -1,4 +1,4 @@
-Scala Data Structures and Algorithms
+Scala Data Structures and Algorithms [![Build Status](https://travis-ci.org/kimxogus/algorithms-scala.svg?branch=master)](https://travis-ci.org/kimxogus/algorithms-scala)
 =========================================
 
 Minimal and clean example implementations of data structures and algorithms in Scala.
