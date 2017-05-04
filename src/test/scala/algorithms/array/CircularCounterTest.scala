@@ -16,7 +16,7 @@ class CircularCounterTest extends UnitSpec {
     }
 
     "skip value is less than 1" should {
-      "throw IllegalArgumentException" in {
+      "throws IllegalArgumentException" in {
         intercept[IllegalArgumentException] {
           CircularCounter[Int](List(), -1, _ => {})
         }
