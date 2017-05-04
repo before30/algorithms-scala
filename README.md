@@ -8,7 +8,7 @@ Minimal and clean example implementations of data structures and algorithms in P
 
 - [array](array)
     - [circular_counter](src/main/scala/algorithms/array/CircularCounter.scala)
-    - [flatten](array/flatten.py)
+    - [flatten](src/main/scala/algorithms/array/Flatten.scala)
     - [garage](array/garage.py)
     - [longest_non_repeat](array/longest_non_repeat.py/)
     - [merge_intervals](array/merge_intervals.py)
