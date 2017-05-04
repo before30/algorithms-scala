@@ -5,10 +5,11 @@ Minimal and clean example implementations of data structures and algorithms in S
 Forked from [keon/algorithms](https://github.com/keon/algorithms)
 
 ## List of Implementations
+Checked implementations are written in scala. If not, those are not converted to scala yet.
 
 - [array](src/main/scala/algorithms/array)
-    - [circular_counter](src/main/scala/algorithms/array/CircularCounter.scala)
-    - [flatten](src/main/scala/algorithms/array/Flatten.scala)
+    - [x] [circular_counter](src/main/scala/algorithms/array/CircularCounter.scala)
+    - [x] [flatten](src/main/scala/algorithms/array/Flatten.scala)
     - [garage](python/array/garage.py)
     - [longest_non_repeat](python/array/longest_non_repeat.py/)
     - [merge_intervals](python/array/merge_intervals.py)
