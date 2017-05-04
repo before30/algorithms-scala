@@ -1,5 +1,10 @@
 package algorithms.array
 
+/**
+  * Implement Flatten Arrays.
+  * Given an array that may contain nested arrays,
+  * give a single resultant array.
+  */
 object Flatten {
 
   def apply(array: List[Any]): List[Any] = {
