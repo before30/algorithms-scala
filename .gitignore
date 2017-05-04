@@ -6,4 +6,4 @@ __pycache__/
 .classpath
 .project
 .settings/
-project/project/
+project/project/target/
