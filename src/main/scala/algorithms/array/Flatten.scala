@@ -5,7 +5,7 @@ object Flatten {
   def apply(array: List[Any]): List[Any] = {
     var result = List[Any]()
 
-    array.foreach(e => result = result ++ flatten(e))
+    array.foreach(e => result ++= flatten(e))
 
     result
   }
