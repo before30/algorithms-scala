@@ -1,11 +1,8 @@
 Scala Data Structures and Algorithms [![Build Status](https://travis-ci.org/kimxogus/algorithms-scala.svg?branch=master)](https://travis-ci.org/kimxogus/algorithms-scala)
 =========================================
 
-Minimal and clean example implementations of data structures and algorithms in Scala.
+Minimal and clean example implementations of data structures and algorithms in Scala.  
 Forked from [keon/algorithms](https://github.com/keon/algorithms)
-
-## How to contribute
-Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## List of Implementations
 
@@ -211,3 +208,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md)
     - [ride_sharing](python/design/ride_sharing.md)
     - [task_runner](python/design/task_runner.md)
     - [twitter_feeds](python/design/twitter_feeds.md)
+
+## How to contribute
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
