@@ -4,6 +4,9 @@ Scala Data Structures and Algorithms [![Build Status](https://travis-ci.org/kimx
 Minimal and clean example implementations of data structures and algorithms in Scala.
 Forked from [keon/algorithms](https://github.com/keon/algorithms)
 
+## How to contribute
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## List of Implementations
 
 - [array](src/main/scala/algorithms/array)
