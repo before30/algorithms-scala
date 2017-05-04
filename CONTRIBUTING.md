@@ -1,3 +1,7 @@
+## Scala and SBT version
+- [Scala 2.11.8](http://www.scala-lang.org/api/2.11.8/)
+- [SBT 0.13.15](http://www.scala-sbt.org/0.13/docs)
+
 ## Code Style
 - Follow [.editorconfig](.editorconfig)
 
