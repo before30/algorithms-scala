@@ -12,7 +12,7 @@
 │   ├── rotate_array.py
 │   ├── summary_ranges.py
 │   ├── three_sum.py
-│   └── two_sum.py
+│   └── TwoSum.scala
 ├── backtrack
 │   ├── anagram.py
 │   ├── array_sum_combinations.py
