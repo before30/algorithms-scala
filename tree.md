@@ -11,7 +11,7 @@
 │   ├── plus_one.py
 │   ├── RotateArray.scala
 │   ├── summary_ranges.py
-│   ├── three_sum.py
+│   ├── ThreeSum.scala
 │   └── TwoSum.scala
 ├── backtrack
 │   ├── anagram.py

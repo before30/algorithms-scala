@@ -17,7 +17,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [plus_one](python/array/plus_one.py)
     - [x] [RotateArray](src/main/scala/algorithms/array/RotateArray.scala)
     - [summary_ranges](python/array/summary_ranges.py)
-    - [three_sum](python/array/three_sum.py)
+    - [x] [ThreeSum](src/main/scala/algorithms/array/ThreeSum.scala)
     - [x] [TwoSum](src/main/scala/algorithms/array/TwoSum.scala)
 - [backtrack](python/backtrack)
     - [general_solution.md](python/backtrack/)
