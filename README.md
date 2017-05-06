@@ -94,7 +94,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [valid_sudoku](python/map/valid_sudoku.py)
 - [math](python/math)
     - [extended_gcd](python/math/extended_gcd.py)
-    - [gcd](python/math/gcd.py)
+    - [gcd/lcm](python/math/gcd.py)
     - [prime_test](python/math/prime_test.py)
     - [primes_sieve_of_eratosthenes](python/math/primes_sieve_of_eratosthenes.py)
     - [generate_strobogrammtic](python/math/generate_strobogrammtic.py)
