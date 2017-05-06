@@ -5,11 +5,15 @@ import algorithms.UnitSpec
 
 class RotateArrayTest extends UnitSpec {
 
+  val inputList = List(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+  val k = 7
+  val expectedOutput = List(3, 4, 5, 6, 7, 8, 9, 0, 1, 2)
+
   "RotateArray.dropAndTake" when {
 
     "k is larger or equal to 0" should {
       "success" in {
-        assert(RotateArray.dropAndTake(List(0, 1, 2, 3, 4, 5, 6, 7, 8, 9), 7) == List(3, 4, 5, 6, 7, 8, 9, 0, 1, 2))
+        assert(RotateArray.dropAndTake(inputList, k) == expectedOutput)
       }
     }
 
@@ -26,7 +30,7 @@ class RotateArrayTest extends UnitSpec {
 
     "k is larger or equal to 0" should {
       "success" in {
-        assert(RotateArray.updated(List(0, 1, 2, 3, 4, 5, 6, 7, 8, 9), 7) == List(3, 4, 5, 6, 7, 8, 9, 0, 1, 2))
+        assert(RotateArray.updated(inputList, k) == expectedOutput)
       }
     }
 
