@@ -9,7 +9,7 @@
 │   ├── merge_intervals.py
 │   ├── missing_ranges.py
 │   ├── plus_one.py
-│   ├── rotate_array.py
+│   ├── RotateArray.scala
 │   ├── summary_ranges.py
 │   ├── three_sum.py
 │   └── TwoSum.scala
