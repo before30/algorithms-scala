@@ -10,7 +10,7 @@ package algorithms.array
 object TwoSum {
 
   def apply(list: List[Int], target: Int): List[Int] = {
-    var map = Map[Int, Int]()
+    var map = Map.empty[Int, Int]
 
     for ((v, i) <- list.zipWithIndex) {
       map.get(v) match {

@@ -8,7 +8,7 @@ package algorithms.array
 object Flatten {
 
   def apply(array: List[Any]): List[Any] = {
-    var result = List[Any]()
+    var result = Nil
 
     array.foreach(e => result ++= flatten(e))
 
