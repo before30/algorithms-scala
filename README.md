@@ -10,7 +10,7 @@ Checked implementations are written in scala. If not, those are not converted to
 - [array](src/main/scala/algorithms/array)
     - [x] [CircularCounter](src/main/scala/algorithms/array/CircularCounter.scala)
     - [x] [Flatten](src/main/scala/algorithms/array/Flatten.scala)
-    - [garage](python/array/garage.py)
+    - [x] [Garage](src/main/scala/algorithms/array/Garage.scala)
     - [longest_non_repeat](python/array/longest_non_repeat.py/)
     - [merge_intervals](python/array/merge_intervals.py)
     - [x] [MissingRanges](src/main/scala/algorithms/array/MissingRanges.scala)

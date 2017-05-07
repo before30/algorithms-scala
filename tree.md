@@ -4,7 +4,7 @@
 ├── array
 │   ├── CircularCounter.scala
 │   ├── Flatten.scala
-│   ├── garage.py
+│   ├── Garage.scala
 │   ├── longest_non_repeat.py
 │   ├── merge_intervals.py
 │   ├── MissingRanges.scala
