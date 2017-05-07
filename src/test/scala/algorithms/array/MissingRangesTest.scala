@@ -5,7 +5,7 @@ import algorithms.UnitSpec
 
 class MissingRangesTest extends UnitSpec {
 
-  "MissingRangesTest" when {
+  "MissingRanges" when {
 
     "lower bound is less than higher bound" should {
       "success" in {

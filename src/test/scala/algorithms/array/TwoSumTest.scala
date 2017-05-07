@@ -5,7 +5,7 @@ import algorithms.UnitSpec
 
 class TwoSumTest extends UnitSpec {
 
-  "TwoSumTest" when {
+  "TwoSum" when {
 
     "target is 5" should {
 
