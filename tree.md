@@ -7,7 +7,7 @@
 │   ├── garage.py
 │   ├── longest_non_repeat.py
 │   ├── merge_intervals.py
-│   ├── missing_ranges.py
+│   ├── MissingRanges.scala
 │   ├── plus_one.py
 │   ├── RotateArray.scala
 │   ├── summary_ranges.py

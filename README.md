@@ -13,7 +13,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [garage](python/array/garage.py)
     - [longest_non_repeat](python/array/longest_non_repeat.py/)
     - [merge_intervals](python/array/merge_intervals.py)
-    - [missing_ranges](python/array/missing_ranges.py)
+    - [x] [MissingRanges](src/main/scala/algorithms/array/MissingRanges.scala)
     - [plus_one](python/array/plus_one.py)
     - [x] [RotateArray](src/main/scala/algorithms/array/RotateArray.scala)
     - [summary_ranges](python/array/summary_ranges.py)
