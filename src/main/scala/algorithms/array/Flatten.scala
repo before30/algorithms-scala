@@ -1,5 +1,8 @@
 package algorithms.array
 
+import scala.collection.mutable.ListBuffer
+
+
 /**
   * Implement Flatten Arrays.
   * Given an array that may contain nested arrays,
@@ -8,11 +11,11 @@ package algorithms.array
 object Flatten {
 
   def apply(array: List[Any]): List[Any] = {
-    var result = List.empty[Any]
+    var result = ListBuffer.empty[Any]
 
     array.foreach(e => result ++= flatten(e))
 
-    result
+    result.toList
   }
 
   private[this] def flatten(e: Any): List[Any] = {
