@@ -18,13 +18,10 @@ object MissingRanges {
     var start = lo
 
     for (v <- source) {
-      if (v <= start) {
-        start = v + 1
-      }
-      else {
+      if (v > start) {
         missingRanges += getRange(start, v - 1)
-        start = v + 1
       }
+      start = v + 1
     }
 
     if (start <= hi) {
