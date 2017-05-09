@@ -14,7 +14,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [longest_non_repeat](python/array/longest_non_repeat.py/)
     - [merge_intervals](python/array/merge_intervals.py)
     - [x] [MissingRanges](src/main/scala/algorithms/array/MissingRanges.scala)
-    - [plus_one](python/array/plus_one.py)
+    - [x] [plus_one](python/array/plus_one.py)
     - [x] [RotateArray](src/main/scala/algorithms/array/RotateArray.scala)
     - [summary_ranges](python/array/summary_ranges.py)
     - [x] [ThreeSum](src/main/scala/algorithms/array/ThreeSum.scala)
