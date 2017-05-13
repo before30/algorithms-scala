@@ -6,7 +6,7 @@
 │   ├── Flatten.scala
 │   ├── Garage.scala
 │   ├── LongestNonRepeat.scala
-│   ├── merge_intervals.py
+│   ├── MergeIntervals.scala
 │   ├── MissingRanges.scala
 │   ├── plus_one.py
 │   ├── RotateArray.scala
