@@ -139,7 +139,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [stack](python/stack/stack.py)
     - [valid_parenthesis](python/stack/valid_parenthesis.py)
 - [string](python/string)
-    - [add_binary](python/string/add_binary.py)
+    - [x] [add_binary](src/main/scala/algorithms/string/AddBinary.scala)
     - [breaking_bad](python/string/breaking_bad.py)
     - [decode_string](python/string/decode_string.py)
     - [encode_decode](python/string/encode_decode.py)
