@@ -154,7 +154,7 @@ Checked implementations are written in scala. If not, those are not converted to
     - [reverse_string](python/string/reverse_string.py)
     - [reverse_vowel](python/string/reverse_vowel.py)
     - [reverse_words](python/string/reverse_words.py)
-    - [roman_to_int](python/string/roman_to_int.py)
+    - [x] [roman_to_int](src/main/scala/algorithms/string/RomanToInteger.scala)
     - [word_squares](python/string/word_squares.py)
 - [tree](python/tree)
     - [segment-tree](python/tree/Segment_Tree)
